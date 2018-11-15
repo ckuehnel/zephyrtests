@@ -40,7 +40,7 @@ Steps to set up
 #. When you're happy with the text, disconnect from the board (exit the app or
    go back to the device scan page)                                       ( 6 )
 #. Once disconnected the board switches over to Bluetooth Mesh mode, and you
-   can't connect to it anymore over GATT.                                 (  7)
+   can't connect to it anymore over GATT.                                 ( 7 )
 
 If you configure multiple boards like this they can communicate with
 each other over mesh: by pressing the user button on the board the first
