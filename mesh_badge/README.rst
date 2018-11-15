@@ -17,8 +17,10 @@ Android and iOS) to access the service that the app exposes. The service
 can also be accessed with any Bluetooth LE GATT client from your PC,
 however these instructions focus on the necessary steps for phones.
 
-Steps to set up  - (x) marks the corresponding images mesh-x.jpg
+Steps to set up
 ***************
+
+(x) marks the corresponding images mesh-x.jpg
 
 #. On your phone, use the nRF Connect app to Scan for devices and look
    for "reel board"                                                       (1)
