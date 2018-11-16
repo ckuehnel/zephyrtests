@@ -43,7 +43,7 @@ Steps to set up
    can't connect to it anymore  over GATT.                              ( 7 )
 
 If you configure multiple boards like this they can communicate with
-each other over mesh: by pressing the user button on the board the first
+each other over mesh: by pressing the user button on the board the first  ( 8 )
 word (name) of the stored text will be sent to all other boards in
 the network and cause the other boards to display "<name> says hi!".
 
