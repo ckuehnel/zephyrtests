@@ -1,0 +1,8 @@
+sample:
+  name: I2C Detact
+tests:
+  test:
+    platform_whitelist: bbc_microbit
+
+    tags: drivers
+    depends_on: i2c
