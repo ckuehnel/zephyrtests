@@ -1,5 +1,5 @@
 sample:
-  name: I2C Detact
+  name: I2C Detect
 tests:
   test:
     platform_whitelist: bbc_microbit
